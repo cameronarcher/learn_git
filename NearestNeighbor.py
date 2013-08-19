@@ -6,6 +6,8 @@ trainFile = raw_input(prompt='Training Data Matrix File')
 testFile = raw_input(prompt='Test Data Input File')
 
 
+print "This is a change"
+
 
 
 
